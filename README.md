@@ -65,7 +65,6 @@
 @@@@@@@@&&@@@&@@@&&@@@&###&##&#&@@@@@@&@@@@@@&&###&@@@###@@@@@@&&&&&@@@@@&&&@@@@@@@@@@@@@@@@&&&&&@@@
 @@@@@@@&&@@@@&@@@@#@@@@@@@@&&&###@@@@@@@@&#&##&&@@&@@@&#@@@@@&&&&@@@@@&&&&@@@@@@@@@@@@@@@@@@@@@&&&&@
 @@@@@@&&@@@@@&@@@@&&@@@@&&&&@@@&##&@@@@&##&&&&&&&&&&&&&@@@@@&&&@@@@@&&&&@@@@@@@@@@@@@@@@@@@@@@@@@@&&
-Share Link 
 
 </pre>
 
@@ -86,7 +85,7 @@ Share Link
 | Languages | Java · C++ · Python · SQL |
 | Backend & systems | Spring Boot · OSGi |
 | AI & automation | Claude · LLMs · AI agent workflows |
-| Developer tools | Git · GitHub · Docker · Linux |
+| Developer tools | Git · GitHub · VsCode · Linux |
 
 ## `ls ./projects`
 
